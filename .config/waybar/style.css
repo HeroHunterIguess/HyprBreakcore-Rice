@@ -32,6 +32,7 @@
     border: none;
     transition: background-color 120ms ease, color 120ms ease;
     border-radius: 0px;
+    padding: 1px;
 }
 #workspaces button:hover {
     background-color: #7b899d;
