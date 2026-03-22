@@ -6,4 +6,4 @@ This does not include my GTK-3 theme.
 
 You can see an example image of how this rice might look in /showcase.png.
 
--# This has some weird things, like the LOCK IN button and wifi reset button, which only apply to me and are probably useless for others.
+This has some weird things, like the LOCK IN button and wifi reset button, which only apply to me and are probably useless for others.
