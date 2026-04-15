@@ -14,7 +14,9 @@
 }
 
 
+
 /* STYLING ALL INDIVIDUAL ELEMENTS */
+
 
 
 /* styling workspace switcher */
@@ -36,6 +38,11 @@
 }
 #workspaces button:hover {
     background-color: #7b899d;
+    color: #ffffff;
+    border-radius: 0px;
+}
+#workspaces button.active {
+    background-color: #313d4d;
     color: #ffffff;
     border-radius: 0px;
 }
