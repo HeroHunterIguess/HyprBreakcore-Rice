@@ -9,7 +9,7 @@
   "position": "top",
   "modules-left": ["hyprland/workspaces", "network", "custom/RW", "custom/LOCKIN", "custom/notification_script", "custom/loading"],
   "modules-center": ["clock"],
-  "modules-right": ["custom/weather", "pulseaudio", "cpu", "custom/gpu", "memory"],
+  "modules-right": ["custom/weather", "pulseaudio", "cpu", "custom/gpu", "custom/gpu_temp", "memory"],
 
   "hyprland/workspaces": {
     "format": "{name}",
@@ -49,6 +49,12 @@
     "exec": "cat /sys/class/hwmon/hwmon7/device/gpu_busy_percent",
     "format": "GPU: {}%",
     "return-type": "",
+    "interval": 1
+  },
+
+  "custom/gpu_temp": {
+    "exec": "sensors -u | grep -A 1 'junction:' | grep 'temp2_input' | awk '{print $2}' | cut -c1-2",
+    "format": "GPU {}°C",
     "interval": 1
   },
 
