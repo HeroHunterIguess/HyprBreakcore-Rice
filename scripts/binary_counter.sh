@@ -41,5 +41,5 @@ while true; do
         current_num=0
     fi
 
-    sleep 0.25
+    sleep 0.2
 done
