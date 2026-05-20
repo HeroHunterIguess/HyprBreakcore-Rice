@@ -156,3 +156,13 @@ padding: 0px 5px;
     padding-left: 1px;
     padding-right: 1px
 }
+
+#custom-binary_counter {
+    border: 2px solid #7b899d;
+    padding-bottom: 0;
+    color: #dedfe5;
+    background-color: #1d2839;
+
+    padding-left: 1px;
+    padding-right: 1px
+}
