@@ -35,7 +35,7 @@ while true; do
 
     echo $current_binary
 
-    ((current_num+=1))
+    ((current_num++))
 
     if (( current_num > 31 )); then
         current_num=0
