@@ -4,9 +4,10 @@ A rice based around the breakcore aesthetic (both the music and art).
 I think this repo is missing some stuff, and other things may only work on my computer, or require other setup. 
 This does not include my GTK-3 theme.
 
-You can see an example image of how this rice might look in /showcase.png.
+You can see an example image of how this rice might look in /showcase.png. 
 This showcase image may be partially outdated, but still reflects the general appearance of the rice.
 
 This has some weird things, like the LOCK IN button and wifi reset button, which only apply to me and are probably useless for others.
+Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. 
 
-Every config that references a script in /scripts is within ~/Everything/scripts on my computer. If you want to use some of these scripts then you may need to adjust the location of the script being called in config files. 
+Every config that references a script in /scripts is within ~/Everything/scripts on my computer. If you want to use some of these scripts then you may need to adjust the location of the script being used in config files. 
