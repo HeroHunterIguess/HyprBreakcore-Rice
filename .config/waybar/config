@@ -7,7 +7,7 @@
   "margin-left": 4,
   "margin-right": 4,
   "position": "top",
-  "modules-left": ["hyprland/workspaces", "network", "custom/RW", "custom/LOCKIN", "custom/binary_counter", "custom/notification_script"],
+  "modules-left": ["hyprland/workspaces", "network", "custom/RW", "custom/LOCKIN", "custom/loading", "custom/notification_script"],
   "modules-center": ["clock"],
   "modules-right": ["custom/weather", "pulseaudio", "cpu", "custom/gpu", "custom/gpu_temp", "memory"],
 
