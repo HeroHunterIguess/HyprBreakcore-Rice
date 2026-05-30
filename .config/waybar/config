@@ -29,65 +29,65 @@
   },
 
   "clock": {
-    "format": "{:%I:%M %p}",
+    "format": "[ {:%I:%M %p} ]",
     "tooltip-format": "{:%A, %d %B %Y}",
     "interval": 60
   },
 
   "custom/weather": {
-      "format": "{}",
+      "format": "[{}]",
       "exec": "~/Everything/scripts/weather.sh",
       "interval": 120,
       "tooltip": false
   },
 
   "cpu": {
-    "format": "CPU: {usage}%"
+    "format": "[CPU: {usage}%]"
   },
 
   "custom/gpu": {
     "exec": "cat /sys/class/hwmon/hwmon7/device/gpu_busy_percent",
-    "format": "GPU: {}%",
+    "format": "[GPU: {}%]",
     "return-type": "",
     "interval": 1
   },
 
   "custom/gpu_temp": {
     "exec": "sensors -u | grep -A 1 'junction:' | grep 'temp2_input' | awk '{print $2}' | cut -c1-2",
-    "format": "GPU: {}°C",
+    "format": "[GPU: {}°C]",
     "interval": 1
   },
 
   "memory": {
-    "format": "RAM: {}%"
+    "format": "[RAM: {}%]"
   },
 
   "network": {
     "format": "{ifname}",
     "format-disconnected": "⚠ Disconnected",
-    "format-wifi": "ᯤ {signalStrength}%"
+    "format-wifi": "[ᯤ{signalStrength}%]"
   },
 
   "custom/RW": {
-    "format": "ᯤ⚠",
+    "format": "[ᯤ⚠]",
     "on-click": "sudo /home/herohunter/Everything/scripts/driverscript.sh",
     "tooltip": true,
     "tooltip-format": "Reset wifi drivers"
   },
 
   "custom/LOCKIN": {
-    "format": "LOCK IN",
+    "format": "[LOCK IN]",
     "on-click": "bash -c '/home/herohunter/Everything/scripts/togglelockin.sh'"
   },
 
   "pulseaudio": {
-    "format": "🕪 {volume}% ",
+    "format": "[🕪{volume}%]",
     "format-muted": "MUTED"
   },
 
   "custom/loading": {
     "exec": "~/Everything/scripts/loading.sh",
-    "format": "{}"
+    "format": "[{}]"
   },
 
   "custom/binary_counter": {
