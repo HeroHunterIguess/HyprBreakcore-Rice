@@ -4,7 +4,7 @@ A rice based around the breakcore aesthetic (both the music and art).
 I think this repo is missing some stuff, and other things may only work on my computer, or require other setup. 
 This does not include my GTK-3 theme.
 
-You can see an example image of how this rice might look in /showcase.png. 
+You can see an example image of how this rice might look in [/showcase.png](showcase.png). 
 This showcase image may be partially outdated, but still reflects the general appearance of the rice.
 
 The background can be found at [/BackgroundImage.jpg](BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore
