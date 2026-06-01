@@ -1,5 +1,7 @@
 # Darkblue Breakcore Rice [Hyprland] 
-A rice based around the breakcore aesthetic (both the music and art). 
+An EndeavourOS rice based around the breakcore aesthetic (both the music and art). 
+
+Since EndeavourOS is Arch based, this should also all work on Arch, however I cannot guarentee everything will work as intended on other distros. **Keep in mind this started as just a place for me to backup my own files, and not everything is setup for someone else to easily copy paste!** 
 
 I think this repo is missing some stuff, and other things may only work on my computer, or require other setup. 
 This does not include my GTK-3 theme.
@@ -12,6 +14,6 @@ You can see an example image of how this rice might look below:  (same image as 
 The background can be found at [/BackgroundImage.jpg](BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore
 
 This has some weird things, like the *LOCK IN* button and wifi reset button, which only apply to me and are probably useless (or won't work) for others.
-Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. Yes, I know many of the scripts I have written are bad, I'm still a beginner at bash and Linux.
+Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. Yes, I know many of the scripts are bad, I'm still a beginner at bash and Linux. 
 
 Every config that references a script in /scripts is within ~/Everything/scripts on my computer. If you want to use some of these scripts then you may need to adjust the location of the script being used in config files. 
