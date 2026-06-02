@@ -6,12 +6,12 @@ Since EndeavourOS is Arch based, this should also all work on Arch, however I ca
 I think this repo is missing some stuff, and other things may only work on my computer, or require other setup. 
 This does not include my GTK-3 theme.
 
-You can see an example image of how this rice might look below:  (same image as [/showcase.png](showcase.png)). 
-![A showcase of some rice elements.](showcase.png)
+You can see an example image of how this rice might look below:  
+![A showcase of some rice elements.](images/showcase.png)
 
 **This showcase image may not always be fully updated**, but still reflects the general appearance of the rice.
 
-The background can be found at [/BackgroundImage.jpg](BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore
+The background can be found at [/images/BackgroundImage.jpg](images/BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore
 
 This has some weird things, like the *LOCK IN* button and wifi reset button, which only apply to me and are probably useless (or won't work) for others.
 Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. Yes, I know many of the scripts are bad, I'm still a beginner at bash and Linux. 
