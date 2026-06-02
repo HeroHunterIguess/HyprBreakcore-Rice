@@ -1,7 +1,7 @@
 # HyprBreakcore Rice [Hyprland] 
 An EndeavourOS & Hyprland rice based around the breakcore aesthetic (both the music and art). 
 
-Since EndeavourOS is Arch based, this should also all work on Arch, however I cannot guarentee everything will work as intended on other distros. **Keep in mind this started as just a place for me to backup my own files, and not everything is setup for someone else to easily copy paste!** 
+Since EndeavourOS is Arch based, this should also all work on Arch, however I cannot guarentee everything will work as intended on other distros. **Keep in mind this started as just a place for me to backup my own files, and not everything is setup for someone else to *easily* copy paste!** 
 
 I think this repo is missing some stuff, and other things may only work on my computer, or require other setup. 
 This does not include my GTK-3 theme.
