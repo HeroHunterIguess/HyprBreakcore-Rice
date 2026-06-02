@@ -11,7 +11,7 @@ You can see an example image of how this rice might look below:
 
 **This showcase image may not always be fully updated**, but still reflects the general appearance of the rice.
 
-The background can be found at [/images/BackgroundImage.jpg](images/BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore
+The background can be found at [/images/BackgroundImage.jpg](images/BackgroundImage.jpg) (obviously). The art is the cover of *Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM* by C:/18hzr/breakcore, and I formatted it to look good at 16:9.
 
 This has some weird things, like the *LOCK IN* button and wifi reset button, which only apply to me and are probably useless (or won't work) for others.
 Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. Yes, I know many of the scripts are bad, I'm still a beginner at bash and Linux. 
