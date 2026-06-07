@@ -21,7 +21,7 @@ while true; do
     pkill steam
     pkill lutris
     pkill heroic
-    pkill firefox
+    #pkill firefox
     pkill -f AppRun.wrapped
     sleep 1
 done
