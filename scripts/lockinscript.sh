@@ -17,7 +17,7 @@ notify-send "LOCK IN" "No more distractions!"
 
 while true; do
     pkill discord
-    hyprctl dispatch closewindow 'class:^([Vv]esktop)$'
+    hyprctl dispatch closewindow 'class:^([Vv]esktop)$' # use this because pkill doesnt work
     pkill steam
     pkill lutris
     pkill heroic
