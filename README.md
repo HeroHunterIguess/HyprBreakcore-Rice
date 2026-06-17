@@ -17,3 +17,5 @@ This has some weird things, like the *LOCK IN* button and wifi reset button, whi
 Alongside those, I also have some random scripts mixed in the /scripts folder that may not apply. Yes, I know many of the scripts are bad, I'm still a beginner at bash and Linux. 
 
 Every config that references a script in /scripts is within *~/Everything/scripts* on my computer. If you want to use some of these scripts then you may need to adjust the location of the script being used in config files. 
+
+This same rice is listed on [Awesome Dotfiles!](https://awesome-dotfiles.vercel.app/rice/raylee)
