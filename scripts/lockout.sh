@@ -25,5 +25,6 @@ else
 
     mins=$((elapsed / 60))
     secs=$((elapsed % 60))
+    dunstctl set-paused false
     notify-send "Lock in mode" "Disabled after ${mins}m ${secs}s."
 fi
