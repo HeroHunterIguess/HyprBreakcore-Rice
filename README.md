@@ -21,4 +21,5 @@ Every config that references a script in /scripts is within *~/Everything/script
 You can also find this rice on [Awesome Dotfiles](https://awesome-dotfiles.vercel.app/rice/raylee) and give it an upvote!
 
 
--# Disclaimer: although almost all of this is written by me, I have used LLMs for a little bit (ex: some of the nvim config).
+
+Disclaimer: although almost all of this is written by me, I have used LLMs for a little bit (ex: some of the nvim config).
