@@ -19,3 +19,6 @@ Alongside those, I also have some random scripts mixed in the /scripts folder th
 Every config that references a script in /scripts is within *~/Everything/scripts* on my computer. If you want to use some of these scripts then you may need to adjust the location of the script being used in config files. 
 
 You can also find this rice on [Awesome Dotfiles](https://awesome-dotfiles.vercel.app/rice/raylee) and give it an upvote!
+
+
+-# Disclaimer: although almost all of this is written by me, I have used LLMs for a little bit (ex: some of the nvim config).
